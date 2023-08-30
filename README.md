@@ -20,7 +20,7 @@ Interested in **Django**, **FastAPI** **C**, **JavaScript**, **React**,
   
 ## Stats
   
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jym-lab&show_icons=true)-->
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Jym-lab&show_icons=true](https://github-readme-stats.vercel.app/api?username=Jym-lab&theme=shadow_green&rank_icon=github))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jym-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
