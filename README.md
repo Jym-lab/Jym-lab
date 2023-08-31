@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YJOO&height=300&animation=fadeIn&stroke=000000&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YJOO&height=300&animation=fadeIn&font-color=black)
 <br>
 <br>
 I participated 👨🏻‍💻42Seoul & 🦁Likelion 11th
