@@ -5,7 +5,7 @@
 <br>
 I participated 👨🏻‍💻42Seoul & 🦁Likelion 11th
 
-Interested in **Django**, **FastAPI** **C**, **JavaScript**, **React**,
+Interested in **Django**, **FastAPI** **C**, **JavaScript**, **React**
 
 <br>
 <br>
